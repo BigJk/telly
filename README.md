@@ -1,6 +1,11 @@
 # telly
 Minimal Telnet Server I wrote for a MUD backend. 
 
+## Get it
+```
+go get github.com/BigJk/telly
+```
+
 ## Example
 ```go
 package main
